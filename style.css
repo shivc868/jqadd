@@ -1,0 +1,32 @@
+.text-center button{
+    margin-top: 5rem;
+    position: relative;
+}
+.text-center{
+    margin: auto;
+    position: relative;
+}
+.img-responsive{
+    
+    height: 70vh;
+    width: 70vw;
+    position: absolute;
+    top: 0;
+    transform: translate(-50%);
+}
+.plane{
+    opacity: 0;
+    transition: 2s;
+}
+.cycle{
+    opacity: 0;
+    transition: 2s;
+}
+.bike{
+    opacity: 0;
+    transition: 2s;
+}
+.car{
+    opacity: 0;
+    transition: 2s;
+}
